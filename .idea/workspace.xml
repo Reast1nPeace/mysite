@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="117a149c-a736-4c27-a31c-b860b87ec4bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0002_auto_20200325_0633.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0003_auto_20200326_0458.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0004_auto_20200326_0513.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0005_blog_readed_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0006_remove_blog_readed_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0007_auto_20200330_1804.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/blog/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/blog/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blogs_with_date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blogs_with_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0002_auto_20200329_1846.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0003_auto_20200329_2032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0004_auto_20200329_2052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0005_auto_20200329_2055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0006_auto_20200330_1804.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/templates/comment/send_mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/templatetags/comment_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/templatetags/likes_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likes/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0002_readdetail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0003_auto_20200326_1655.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0004_auto_20200330_1804.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_statistics/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/editor/62CDA921-4274-477D-AABE-200E00B5FCEB_20200326062846309878.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/editor/62CDA921-4274-477D-AABE-200E00B5FCEB_20200326062920599577.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/editor/64E2C3F1-71DA-444E-AF70-F66477D87961_20200326063852741047.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/templates/user/bind_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/templates/user/forgot_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/templates/user/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/templates/user/user_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZcLDWF2AQDoW6MKJDzvDiJ0B6n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/likes/templatetags" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/user" />
+      <recent name="$PROJECT_DIR$/user/templates/user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/likes/templatetags" />
+      <recent name="$PROJECT_DIR$/likes" />
+      <recent name="$PROJECT_DIR$/comment/templatetags" />
+      <recent name="$PROJECT_DIR$/comment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="117a149c-a736-4c27-a31c-b860b87ec4bd" name="Default Changelist" comment="" />
+      <created>1585133315379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585133315379</updated>
+      <workItem from="1585133317130" duration="1129000" />
+      <workItem from="1585292994126" duration="1643000" />
+      <workItem from="1585311499794" duration="100000" />
+      <workItem from="1585311629043" duration="40000" />
+      <workItem from="1585311678196" duration="68000" />
+      <workItem from="1585311760259" duration="76000" />
+      <workItem from="1585311926182" duration="133000" />
+      <workItem from="1585312068992" duration="273000" />
+      <workItem from="1585312351844" duration="9005000" />
+      <workItem from="1585363105862" duration="20408000" />
+      <workItem from="1585408632659" duration="2510000" />
+      <workItem from="1585450464770" duration="23799000" />
+      <workItem from="1585547271373" duration="26152000" />
+      <workItem from="1585654425903" duration="19077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="233" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585734754662">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="392" y="233" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.23.1728.1097@64.23.1728.1097" timestamp="1585734754662" />
+    <state x="651" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585408558676">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="651" y="381" key="#com.intellij.fileTypes.FileTypeChooser/64.23.1728.1097@64.23.1728.1097" timestamp="1585408558676" />
+    <state x="715" y="333" key="FileChooserDialogImpl" timestamp="1585294217865">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="715" y="333" key="FileChooserDialogImpl/64.23.1728.1097@64.23.1728.1097" timestamp="1585294217865" />
+    <state width="1686" height="179" key="GridCell.Tab.0.bottom" timestamp="1585337224440">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.0.bottom/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224440" />
+    <state width="1686" height="179" key="GridCell.Tab.0.center" timestamp="1585337224440">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.0.center/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224440" />
+    <state width="1686" height="179" key="GridCell.Tab.0.left" timestamp="1585337224440">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.0.left/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224440" />
+    <state width="1686" height="179" key="GridCell.Tab.0.right" timestamp="1585337224440">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.0.right/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224440" />
+    <state width="1686" height="179" key="GridCell.Tab.1.bottom" timestamp="1585337224441">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.1.bottom/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224441" />
+    <state width="1686" height="179" key="GridCell.Tab.1.center" timestamp="1585337224441">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.1.center/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224441" />
+    <state width="1686" height="179" key="GridCell.Tab.1.left" timestamp="1585337224440">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.1.left/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224440" />
+    <state width="1686" height="179" key="GridCell.Tab.1.right" timestamp="1585337224441">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state width="1686" height="179" key="GridCell.Tab.1.right/64.23.1728.1097@64.23.1728.1097" timestamp="1585337224441" />
+    <state x="472" y="231" key="SettingsEditor" timestamp="1585314308151">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="472" y="231" key="SettingsEditor/64.23.1728.1097@64.23.1728.1097" timestamp="1585314308151" />
+    <state x="605" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1585654426222">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="605" y="404" key="com.intellij.ide.util.TipDialog/64.23.1728.1097@64.23.1728.1097" timestamp="1585654426222" />
+    <state x="164" y="123" width="1528" height="897" key="dock-window-1" timestamp="1585325255414">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="164" y="123" width="1528" height="897" key="dock-window-1/64.23.1728.1097@64.23.1728.1097" timestamp="1585325255414" />
+    <state x="460" y="268" key="search.everywhere.popup" timestamp="1585312045908">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="460" y="268" key="search.everywhere.popup/64.23.1728.1097@64.23.1728.1097" timestamp="1585312045908" />
+  </component>
+</project>
