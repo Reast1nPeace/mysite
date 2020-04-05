@@ -22,6 +22,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('', views.home, name='home'),
+    path('search/', views.search, name="search"),
     path('admin/', admin.site.urls),
     url(r'mdeditor/', include('mdeditor.urls')),
     path('blog/', include('blog.urls')),

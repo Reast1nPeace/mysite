@@ -2,110 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117a149c-a736-4c27-a31c-b860b87ec4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0002_auto_20200325_0633.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0003_auto_20200326_0458.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0004_auto_20200326_0513.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0005_blog_readed_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0006_remove_blog_readed_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0007_auto_20200330_1804.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blogs_with_date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blogs_with_type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0002_auto_20200329_1846.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0003_auto_20200329_2032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0004_auto_20200329_2052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0005_auto_20200329_2055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0006_auto_20200330_1804.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/templates/comment/send_mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/templatetags/comment_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/templatetags/likes_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likes/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0002_readdetail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0003_auto_20200326_1655.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/0004_auto_20200330_1804.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_statistics/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-3.3.7/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/editor/62CDA921-4274-477D-AABE-200E00B5FCEB_20200326062846309878.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/editor/62CDA921-4274-477D-AABE-200E00B5FCEB_20200326062920599577.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/editor/64E2C3F1-71DA-444E-AF70-F66477D87961_20200326063852741047.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/context_processors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/templates/user/bind_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/templates/user/forgot_password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/templates/user/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/templates/user/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/templates/user/user_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/blog_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/blog_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/user/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/user/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/user/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/user/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/user/user_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/user/user_info.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -165,18 +73,17 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../bin/python3.8" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="127.0.0.1" />
+      <option name="host" value="" />
       <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
@@ -208,6 +115,12 @@
       <workItem from="1585450464770" duration="23799000" />
       <workItem from="1585547271373" duration="26152000" />
       <workItem from="1585654425903" duration="19077000" />
+      <workItem from="1585737184908" duration="7218000" />
+      <workItem from="1585798230237" duration="591000" />
+      <workItem from="1585810098393" duration="2157000" />
+      <workItem from="1585833308255" duration="705000" />
+      <workItem from="1585913362845" duration="2355000" />
+      <workItem from="1585975146926" duration="1056000" />
     </task>
     <servers />
   </component>
@@ -223,6 +136,10 @@
       <screen x="64" y="23" width="1728" height="1097" />
     </state>
     <state x="651" y="381" key="#com.intellij.fileTypes.FileTypeChooser/64.23.1728.1097@64.23.1728.1097" timestamp="1585408558676" />
+    <state x="673" y="434" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585765333033">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="673" y="434" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/64.23.1728.1097@64.23.1728.1097" timestamp="1585765333033" />
     <state x="715" y="333" key="FileChooserDialogImpl" timestamp="1585294217865">
       <screen x="64" y="23" width="1728" height="1097" />
     </state>
@@ -263,10 +180,10 @@
       <screen x="64" y="23" width="1728" height="1097" />
     </state>
     <state x="472" y="231" key="SettingsEditor/64.23.1728.1097@64.23.1728.1097" timestamp="1585314308151" />
-    <state x="605" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1585654426222">
+    <state x="605" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1585975148144">
       <screen x="64" y="23" width="1728" height="1097" />
     </state>
-    <state x="605" y="404" key="com.intellij.ide.util.TipDialog/64.23.1728.1097@64.23.1728.1097" timestamp="1585654426222" />
+    <state x="605" y="404" key="com.intellij.ide.util.TipDialog/64.23.1728.1097@64.23.1728.1097" timestamp="1585975148144" />
     <state x="164" y="123" width="1528" height="897" key="dock-window-1" timestamp="1585325255414">
       <screen x="64" y="23" width="1728" height="1097" />
     </state>
